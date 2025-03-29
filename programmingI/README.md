@@ -10,9 +10,9 @@ Term I (5 月-7 月 火，水，木 各 3 時間)
 - [git & github](https://github.com/omas-public/preferences-2025/tree/main/git)
 - [neovim](https://github.com/omas-public/preferences-2025/tree/main/neovim)
 
-一年時は vi(nvim)を使用してProgramminngを行う。上記の vi の設定で linter は flake8，formatter は autopep を設定している，error の見方を教えてあげてください
+一年時は vi(nvim)を使用して Programminng を行う。上記の vi の設定で linter は flake8，formatter は autopep を設定している，error の見方を教えてあげてください
 
- 演習問題は Gist や Git を使用して Github に Push するように指導お願いします
+演習問題は Gist や Git を使用して Github に Push するように指導お願いします
 
 ### 演習課題
 
@@ -27,8 +27,7 @@ Term I (5 月-7 月 火，水，木 各 3 時間)
   - [コードガールコレクション](https://paiza.jp/cgc) // ギャルゲー風
 - [AOJ 3.0](https://onlinejudge.u-aizu.ac.jp/beta/ice/)
   - [AOJ 3.0 チュートリアル](https://onlinejudge.u-aizu.ac.jp/documents/ICE_ja.pdf)
-  - [リアルタイムジャッジ](https:/
-  /onlinejudge.u-aizu.ac.jp/recent_judges)で学生が送ったコードを見ることができるので，スクリーンに投影してみんなでワチャワチャできる
+  - [リアルタイムジャッジ](https://onlinejudge.u-aizu.ac.jp/recent_judges)で学生が送ったコードを見ることができるので，スクリーンに投影してみんなでワチャワチャできる
 - [Codingbat](https://codingbat.com/python)
   - 英語のサイトではあるが，2 人を組ませてペアプロで行うと良い
   - [Python の外部入力の受け取り方](https://qiita.com/scythercas/items/5e08dfffb49468dd1176)
@@ -39,7 +38,7 @@ Term I (5 月-7 月 火，水，木 各 3 時間)
 ### コーディング指針
 
 - コレクション中心のプログラミング
-- Pythonのライブラリを使ったプログラミング
+- Python のライブラリを使ったプログラミング
 - 小さい関数を多く作り統合して動かすプログラミング
 - [コーディング指針参考](./docs/coding.conversion.md)
 

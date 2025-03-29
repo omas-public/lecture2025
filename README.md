@@ -10,7 +10,7 @@
 
 - [情報セキュリティコース 2 年制](./docs/cybersecurity.md)
 - [情報工学コース 3 年制](./docs/development.md)
-- [夜間エンジニ科 1 年制](./docs/night.md)
+- [夜間エンジニア科 1 年制](./docs/night.md)
 
 ## 講義資料
 
